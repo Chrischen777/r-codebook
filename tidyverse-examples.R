@@ -1,5 +1,6 @@
 # STAT 2102 — Tidyverse Lecture 10–14
 # Each numbered example is independent. External data: data/nyc_flights.csv.gz and data/lung_capacity.txt.
+# The raw lung_capacity.txt is not published; use your own course copy.
 # Install tidyverse once before running. See the website for logic and outputs.
 
 

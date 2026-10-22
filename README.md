@@ -27,4 +27,4 @@ Tidyverse 覆盖 Lecture 10–14 的 dplyr、tidyr 和 ggplot2，包含模块搜
 
 Tidyverse 航班案例使用本次上传的完整 CSV（336,776行、19列），压缩后数据内容不变。Lecture 12 使用 tidyr 包内 table1–5、relig_income、who、billboard；Lecture 13 使用 ggplot2::mpg。版本与完整覆盖记录见 `TIDYVERSE-NOTES.md`。
 
-Lecture 14 使用 `data/lung_capacity.txt`（725行、6列），需放入同一RStudio项目的data目录。边缘图与多图拼接另需 `ggExtra` 和 `patchwork` 包。Lecture14新增20个实际运行案例与41页图形。
+Lecture 14 使用 `data/lung_capacity.txt`（725行、6列）。该原始数据不公开上传；运行相关代码时，请将自己课程资料中的文件放入同一RStudio项目的data目录。网页中的讲解、输出和图形可直接查看。边缘图与多图拼接另需 `ggExtra` 和 `patchwork` 包。Lecture14新增20个实际运行案例与41页图形。

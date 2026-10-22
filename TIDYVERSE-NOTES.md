@@ -9,7 +9,7 @@
 - 新增 `tidyverse.html`：独立静态页面，内嵌 CSS、JavaScript、代码、实际输出和图像。
 - 新增 `data/nyc_flights.csv.gz`：用户上传 CSV 的无损 gzip 压缩，33,743,073 → 8,383,544 bytes。
 - 新增 `tidyverse-examples.R`：全部113个完整案例。
-- 新增 `data/lung_capacity.txt`：Lecture14所需课堂数据，725行6列，来自本地已有文件。
+- 本地验证使用 `data/lung_capacity.txt`：Lecture14课堂数据，725行6列。按用户要求，该原始文件不上传公开仓库；读者运行相关代码时需使用自己的课程文件。网页保留讲解、示例输出与图形。
 - 新增本说明文件；本地 `tools/` 中保存内容源、生成器与验证材料，网页不依赖它们。
 
 ## 目录与讲义覆盖
