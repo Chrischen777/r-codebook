@@ -1,0 +1,6 @@
+# Keep the Lecture 14 raw classroom file local, as requested.
+/data/lung_capacity.txt
+
+# Local browser verification page.
+/tools/clipboard-check.html
+__pycache__/
